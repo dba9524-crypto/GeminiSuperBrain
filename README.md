@@ -3,9 +3,7 @@ Gemini 超级大脑 · Windows 多工作区图像创作工作台发行版
 
 ## 功能介绍
 
-[![Gemini 超级大脑功能演示](media/feature-overview.jpg)](https://dba9524-crypto.github.io/GeminiSuperBrain/)
-
-[▶ 在线播放功能介绍视频（MP4，4 分 09 秒）](https://dba9524-crypto.github.io/GeminiSuperBrain/)
+https://github.com/user-attachments/assets/debb89f2-af0b-454f-ad4c-481043726781
 
 ## 功能说明书
 
