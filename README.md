@@ -1,6 +1,6 @@
 # GeminiSuperBrain
 
-**使用前需开通 Gemini Pro 会员。**
+**使用前需开通 Gemini Pro 会员。** &nbsp; <img src="media/intro-timestamp.png" height="22" align="absmiddle" alt="15·04·29·99·683">
 
 Gemini 超级大脑提供 30 项服装电商图像创作功能。上传模特照和服装平铺图或人台图，就能预览模特穿上这件衣服的效果。你还可以给服装换色、换印花、换面料，提取面料花型，调整模特姿势和拍摄背景，或生成摆拍细节图和 3D 卖点主图。
 
